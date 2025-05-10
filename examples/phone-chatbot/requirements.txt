@@ -1,5 +1,3 @@
-pipecat-ai[daily,cartesia,deepgram,openai,google,silero]
-fastapi==0.115.6
-uvicorn
-python-dotenv
-python-multipart
+Flask==1.1.2
+flask-ngrok==0.0.25
+twilio==9.6.0
